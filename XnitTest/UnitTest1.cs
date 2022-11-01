@@ -6,6 +6,7 @@ using Xunit.Sdk;
 //t
 namespace XUnitTest
 {
+    // createProduct b 1 
     public class UnitTest1
     {
         //instance variable used just for Multiply test method
