@@ -7,12 +7,9 @@ using Xunit.Sdk;
 namespace XUnitTest
 {
 
-    // createProduct push
-    // createProduct new
-    // createProduct push
-    // createProduct new
-
-    // createProduct b 1 
+    /// <summary>
+    /// product
+    /// </summary>
     public class UnitTest1
     {
         //instance variable used just for Multiply test method
