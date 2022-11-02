@@ -13,6 +13,7 @@ namespace CalculatorNameSpace
         /// 
         /// </summary>
         /// <param name="args"></param>
+        /// product one
         public static void Main(string[] args)
         {
             Calculator calculator = new Calculator();
